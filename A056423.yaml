@@ -1,20 +1,17 @@
 proxies:
-  - {name: 🇨🇳 A056423剩余使用时间180天, server: 110.242.70.68, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
-  - {name: 🇨🇳 A056423中国/广东/广州/电信14.215.182.75, server: 14.215.182.75, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
-  - {name: 🇨🇳 A056423中国/北京/电信220.181.33.174, server: 220.181.33.174, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293053,}}
-  - {name: 🇨🇳 A056423中国/江苏/南京/电信180.101.50.249, server: 180.101.50.249, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293054,}}
-  - {name: 🇨🇳 A056423中国/江苏/南京/电信180.101.50.208, server: 180.101.50.208, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293055,}}
-  - {name: 🇨🇳 A056423中国/北京/电信220.181.7.1, server: 220.181.7.1, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293056,}}
-  - {name: 🇨🇳 A056423中国/北京/电信220.181.111.189, server: 220.181.111.189, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293057,}}
-  - {name: 🇨🇳 A056423中国/广东/广州/联通163.177.17.6, server: 163.177.17.6, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293058,}}
-  - {name: 🇨🇳 A056423中国/河北/保定/联通110.242.70.69, server: 110.242.70.69, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293059,}}
-  - {name: 🇨🇳 A056423中国/江苏/南京/联通153.3.237.117, server: 153.3.237.117, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293060,}}
-  - {name: 🇨🇳 A056423中国/广东/广州/联通163.177.17.189, server: 163.177.17.189, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293061,}}
-  - {name: 🇨🇳 A056423中国/江苏/苏州/联通157.0.148.53, server: 157.0.148.53, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293062,}}
-  - {name: 🇨🇳 A056423中国/河北/保定/联通110.242.70.68, server: 110.242.70.68, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293063,}}
-  - {name: 🇨🇳 A056423中国/广东/广州/移动183.240.98.84, server: 183.240.98.84, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293064,}}
-  - {name: 🇨🇳 A056423中国/江苏/南京/移动36.155.169.188, server: 36.155.169.188, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293065,}}
-  - {name: 🇨🇳 A056423中国/广东/广州/移动183.232.232.253, server: 183.232.232.253, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293066,}}
-  - {name: 🇨🇳 A056423中国/广东/广州/电信14.215.179.244, server: 14.215.179.244, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293067,}}
-  - {name: 🇨🇳 A056423中国/江苏/苏州/电信180.97.93.202, server: 180.97.93.202, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293068,}}
-  - {name: 🇨🇳 A056423中国/江苏/南京/联通153.3.236.22, server: 153.3.236.22, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293069,}}
+  - {name: 🇨🇳 TCP丨纯IP代理丨随机三网入口丨HOST1, server: cloudnproxy.baidu.com, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨纯IP代理丨随机三网入口丨HOST2, server: cloudnproxy.n.shifen.com, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨纯IP代理丨移动入口丨南京丨IP1, server: 36.155.169.188, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨纯IP代理丨移动入口丨广州丨IP2, server: 183.232.232.253, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+
+  - {name: 🇨🇳 TCP丨纯IP代理丨电信入口丨南京丨IP1, server: 180.101.50.208, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨纯IP代理丨电信入口丨南京丨IP2, server: 180.101.50.249, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨纯IP代理丨电信入口丨北京丨IP1, server: 220.181.111.189, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨纯IP代理丨电信入口丨北京丨IP2, server: 220.181.7.1, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨纯IP代理丨电信入口丨广州丨IP1, server: 14.215.179.244, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨纯IP代理丨电信入口丨苏州丨IP2, server: 180.97.93.202, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+
+  - {name: 🇨🇳 TCP丨纯IP代理丨联通入口丨保定丨IP1, server: 110.242.70.68, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨纯IP代理丨联通入口丨保定丨IP2, server: 110.242.70.69, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨纯IP代理丨联通入口丨南京丨IP1, server: 153.3.236.22, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨纯IP代理丨联通入口丨苏州丨IP2, server: 157.0.148.53, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
