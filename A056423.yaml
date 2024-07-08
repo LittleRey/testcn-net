@@ -1,17 +1,26 @@
 proxies:
-  - {name: 🇨🇳 TCP丨纯IP代理丨随机三网入口丨HOST1, server: cloudnproxy.baidu.com, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
-  - {name: 🇨🇳 TCP丨纯IP代理丨随机三网入口丨HOST2, server: cloudnproxy.n.shifen.com, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
-  - {name: 🇨🇳 TCP丨纯IP代理丨移动入口丨南京丨IP1, server: 36.155.169.188, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
-  - {name: 🇨🇳 TCP丨纯IP代理丨移动入口丨广州丨IP2, server: 183.232.232.253, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨百度HTTP代理丨三网入口丨HOST1, server: cloudnproxy.baidu.com, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨百度HTTP代理丨三网入口丨HOST2, server: cloudnproxy.n.shifen.com, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨百度HTTP代理丨移动入口丨南京丨IP1, server: 36.155.169.188, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨百度HTTP代理丨移动入口丨南京丨IP2, server: 36.152.45.97, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨百度HTTP代理丨移动入口丨南京丨IP3, server: 36.152.45.98, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨百度HTTP代理丨移动入口丨广州丨IP1, server: 183.232.232.253, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨百度HTTP代理丨移动入口丨广州丨IP2, server: 183.240.98.84, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
 
-  - {name: 🇨🇳 TCP丨纯IP代理丨电信入口丨南京丨IP1, server: 180.101.50.208, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
-  - {name: 🇨🇳 TCP丨纯IP代理丨电信入口丨南京丨IP2, server: 180.101.50.249, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
-  - {name: 🇨🇳 TCP丨纯IP代理丨电信入口丨北京丨IP1, server: 220.181.111.189, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
-  - {name: 🇨🇳 TCP丨纯IP代理丨电信入口丨北京丨IP2, server: 220.181.7.1, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
-  - {name: 🇨🇳 TCP丨纯IP代理丨电信入口丨广州丨IP1, server: 14.215.179.244, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
-  - {name: 🇨🇳 TCP丨纯IP代理丨电信入口丨苏州丨IP2, server: 180.97.93.202, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
 
-  - {name: 🇨🇳 TCP丨纯IP代理丨联通入口丨保定丨IP1, server: 110.242.70.68, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
-  - {name: 🇨🇳 TCP丨纯IP代理丨联通入口丨保定丨IP2, server: 110.242.70.69, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
-  - {name: 🇨🇳 TCP丨纯IP代理丨联通入口丨南京丨IP1, server: 153.3.236.22, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
-  - {name: 🇨🇳 TCP丨纯IP代理丨联通入口丨苏州丨IP2, server: 157.0.148.53, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨百度HTTP代理丨电信入口丨南京丨IP1, server: 180.101.50.208, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨百度HTTP代理丨电信入口丨南京丨IP2, server: 180.101.50.249, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨百度HTTP代理丨电信入口丨北京丨IP1, server: 220.181.111.189, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨百度HTTP代理丨电信入口丨北京丨IP2, server: 220.181.7.1, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨百度HTTP代理丨电信入口丨广州丨IP1, server: 14.215.179.244, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨百度HTTP代理丨电信入口丨苏州丨IP1, server: 180.97.93.202, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨百度HTTP代理丨电信入口丨北京丨IP3, server: 220.181.33.174, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+
+
+
+  - {name: 🇨🇳 TCP丨百度HTTP代理丨联通入口丨保定丨IP1, server: 110.242.70.68, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨百度HTTP代理丨联通入口丨保定丨IP2, server: 110.242.70.69, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨百度HTTP代理丨联通入口丨南京丨IP1, server: 153.3.236.22, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨百度HTTP代理丨联通入口丨苏州丨IP1, server: 157.0.148.53, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+  - {name: 🇨🇳 TCP丨百度HTTP代理丨联通入口丨广州丨IP1, server: 157.255.78.51, port: 443, type: http, tls: false, skip-cert-verify: true, headers: {Host: pushbos.baidu.com, X-T5-Auth: 1109293052,}}
+ 
